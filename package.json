@@ -1,0 +1,9 @@
+{
+  "name": "gnpm",
+  "version": "0.0.1",
+  "description": "Galaxy-Nodejs PackageManager",
+  "main": "index.js",
+  "repository": "https://github.com/MeowsSauce/gnpm",
+  "author": "GalaxyTeams",
+  "license": "MIT"
+}
