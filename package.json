@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/MeowsSauce/gnpm",
   "author": "GalaxyTeams",
-  "license": "MIT"
+  "license": "None",
+  "scripts": {
+    "init": "node main/init.js",
+    "start": "node index.js"}
 }
