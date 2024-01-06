@@ -1,2 +1,3 @@
-# gnpm
-Galaxy-Nodejs PackageManager
+# XhNPM-星河NPM
+## 介绍
+星河NPM，一个易于使用的全新包管理器。
